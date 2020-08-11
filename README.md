@@ -3,7 +3,7 @@
 ### Карта приложения
 ![Image alt](https://github.com/vlades7/screenshots/raw/master/test_navigator/Map.png)
 ### Скриншоты
-![Image alt](https://github.com/vlades7/screenshots/raw/master/test_navigator/Login.png)
+![Image alt](https://github.com/vlades7/screenshots/raw/master/test_navigator/Login.jpg)
 ![Image alt](https://github.com/vlades7/screenshots/raw/master/test_navigator/MainBefore.jpg)
 ![Image alt](https://github.com/vlades7/screenshots/raw/master/test_navigator/Screen1.jpg)
 ![Image alt](https://github.com/vlades7/screenshots/raw/master/test_navigator/Screen2.jpg)
